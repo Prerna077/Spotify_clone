@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../resume"
+		},
+		{
+			"path": "../project 2"
+		},
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "../css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "spotify"
+	}
+}
